@@ -1,0 +1,11 @@
+{
+  "name": "node-render-demo",
+  "version": "1.0.0",
+  "description": "Lab 04 - Node.js et Express sur Render - Amine Malki",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "author": "Amine Malki",
+  "private": true,
+  "engines": { "node": "22.x" },
+  "dependencies": { "express": "4.21.2" }
+}
